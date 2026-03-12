@@ -206,7 +206,7 @@
     "region": "Kansai",
     "note": "Very common in Osaka/Kyoto speech. (Set 2)",
     "id": 21,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -408,7 +408,7 @@
     "region": "Kansai",
     "note": "Very common in Osaka/Kyoto speech. (Set 3)",
     "id": 41,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -458,7 +458,7 @@
     "region": "Hokkaido",
     "note": "Used for severe winter cold. (Set 3)",
     "id": 46,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -538,7 +538,7 @@
     "region": "Yamaguchi/Hiroshima",
     "note": "Regional intensifier. (Set 3)",
     "id": 54,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -558,7 +558,7 @@
     "region": "Chugoku",
     "note": "Prohibitive nuance. (Set 3)",
     "id": 56,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -818,7 +818,7 @@
     "region": "Kansai",
     "note": "Classic comedic retort (tsukkomi). (Set 5)",
     "id": 82,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -828,7 +828,7 @@
     "region": "Kansai",
     "note": "Now used nationwide. (Set 5)",
     "id": 83,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -838,7 +838,7 @@
     "region": "Kansai",
     "note": "Used for prohibition/failure. (Set 5)",
     "id": 84,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -848,7 +848,7 @@
     "region": "Kansai",
     "note": "Example: 食べへん = 食べない。 (Set 5)",
     "id": 85,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

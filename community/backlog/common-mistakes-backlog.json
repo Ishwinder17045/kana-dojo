@@ -125,7 +125,7 @@
     "explanation": "わかる takes が. (Pattern set 1)",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "宿題を忘れないよう、メモします。",
@@ -133,7 +133,9 @@
     "explanation": "Use ように for purpose/prevention. (Pattern set 1)",
     "id": 17,
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "Kubudak90",
+    "completedPR": 8093
   },
   {
     "wrong": "駅まで十分歩きますかかる。",
@@ -157,7 +159,7 @@
     "explanation": "Negative polite form already complete. (Pattern set 1)",
     "id": 20,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は日本語を話しますです。",
@@ -204,7 +206,7 @@
     "correct": "図書館で本を借りました。",
     "explanation": "で marks location of action. (Pattern set 2)",
     "id": 26,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -405,7 +407,7 @@
     "explanation": "ので is smoother/neutral for reason. (Pattern set 3)",
     "id": 51,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "もし雨が降ります、行きません。",
@@ -445,7 +447,7 @@
     "explanation": "わかる takes が. (Pattern set 3)",
     "id": 56,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "宿題を忘れないよう、メモします。",
@@ -453,14 +455,14 @@
     "explanation": "Use ように for purpose/prevention. (Pattern set 3)",
     "id": 57,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "駅まで十分歩きますかかる。",
     "correct": "駅まで歩いて十分かかる。",
     "explanation": "Use natural collocation and order. (Pattern set 3)",
     "id": 58,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -493,14 +495,14 @@
     "explanation": "好き takes が, not を. (Pattern set 4)",
     "id": 62,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "静かい部屋",
     "correct": "静かな部屋",
     "explanation": "な-adjectives require な before nouns. (Pattern set 4)",
     "id": 63,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -597,7 +599,7 @@
     "explanation": "Use に行く for purpose. (Pattern set 4)",
     "id": 75,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本語をわかります。",
@@ -645,7 +647,7 @@
     "explanation": "Do not stack ます and です in one predicate. (Pattern set 5)",
     "id": 81,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本語が好きをです。",
@@ -653,14 +655,14 @@
     "explanation": "好き takes が, not を. (Pattern set 5)",
     "id": 82,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "静かい部屋",
     "correct": "静かな部屋",
     "explanation": "な-adjectives require な before nouns. (Pattern set 5)",
     "id": 83,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -669,7 +671,7 @@
     "explanation": "い-adjectives do not take だ in plain present. (Pattern set 5)",
     "id": 84,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "先生は私を日本語を教えました。",
@@ -685,7 +687,7 @@
     "explanation": "で marks location of action. (Pattern set 5)",
     "id": 86,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は昨日東京に行きます。",
@@ -693,7 +695,7 @@
     "explanation": "Use past tense for past actions. (Pattern set 5)",
     "id": 87,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "東京は人が多いです、きれいです。",
@@ -757,7 +759,7 @@
     "explanation": "Use に行く for purpose. (Pattern set 5)",
     "id": 95,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本語をわかります。",
@@ -765,7 +767,7 @@
     "explanation": "わかる takes が. (Pattern set 5)",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "宿題を忘れないよう、メモします。",
@@ -773,14 +775,14 @@
     "explanation": "Use ように for purpose/prevention. (Pattern set 5)",
     "id": 97,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "駅まで十分歩きますかかる。",
     "correct": "駅まで歩いて十分かかる。",
     "explanation": "Use natural collocation and order. (Pattern set 5)",
     "id": 98,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -788,7 +790,7 @@
     "correct": "この漢字の読み方は難しいです。",
     "explanation": "Prefer noun linkage with の. (Pattern set 5)",
     "id": 99,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -836,7 +838,7 @@
     "correct": "先生は私に日本語を教えました。",
     "explanation": "Recipient takes に with 教える. (Pattern set 6)",
     "id": 105,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -925,7 +927,7 @@
     "explanation": "わかる takes が. (Pattern set 6)",
     "id": 116,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "宿題を忘れないよう、メモします。",
@@ -933,14 +935,14 @@
     "explanation": "Use ように for purpose/prevention. (Pattern set 6)",
     "id": 117,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "駅まで十分歩きますかかる。",
     "correct": "駅まで歩いて十分かかる。",
     "explanation": "Use natural collocation and order. (Pattern set 6)",
     "id": 118,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

@@ -97,7 +97,7 @@
     "character": "Hero / party lines",
     "id": 10,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "ここからが本番だ",
@@ -107,7 +107,7 @@
     "character": "Guild Handler lines",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -301,7 +301,7 @@
     "character": "Hero / party lines",
     "id": 30,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "ここからが本番だ",
@@ -310,7 +310,7 @@
     "game": "Monster Hunter series",
     "character": "Guild Handler lines",
     "id": 31,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -321,7 +321,7 @@
     "character": "Rival characters",
     "id": 32,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "運命なんて、変えてみせる！",
@@ -331,7 +331,7 @@
     "character": "Class Zero",
     "id": 33,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -381,7 +381,7 @@
     "character": "Revali",
     "id": 38,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -390,7 +390,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 39,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -481,7 +481,7 @@
     "character": "Sora",
     "id": 48,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "負ける気がしない",
@@ -491,7 +491,7 @@
     "character": "Ryu",
     "id": 49,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "冒険の始まりだ！",
@@ -501,7 +501,7 @@
     "character": "Hero / party lines",
     "id": 50,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "ここからが本番だ",
@@ -511,7 +511,7 @@
     "character": "Guild Handler lines",
     "id": 51,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -521,7 +521,7 @@
     "character": "Rival characters",
     "id": 52,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "運命なんて、変えてみせる！",
@@ -531,7 +531,7 @@
     "character": "Class Zero",
     "id": 53,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -541,7 +541,7 @@
     "character": "Ichiban Kasuga",
     "id": 54,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -551,7 +551,7 @@
     "character": "Various protagonists",
     "id": 55,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "それもまた一興",
@@ -561,7 +561,7 @@
     "character": "Nobunaga Oda",
     "id": 56,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
@@ -571,7 +571,7 @@
     "character": "Joker",
     "id": 57,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "風が、来る！",
@@ -581,7 +581,7 @@
     "character": "Revali",
     "id": 58,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -641,7 +641,7 @@
     "character": "Rintaro Okabe",
     "id": 64,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "希望は前に進むんだ！",
@@ -651,7 +651,7 @@
     "character": "Makoto Naegi",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "覚悟はいいか？ 俺はできてる。",
@@ -661,7 +661,7 @@
     "character": "Giorno Giovanna",
     "id": 66,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "仲間を信じろ",
@@ -671,7 +671,7 @@
     "character": "Recurring command voice",
     "id": 67,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "行くぞ、みんな！",
@@ -701,7 +701,7 @@
     "character": "Hero / party lines",
     "id": 70,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "ここからが本番だ",
@@ -711,7 +711,7 @@
     "character": "Guild Handler lines",
     "id": 71,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -731,7 +731,7 @@
     "character": "Class Zero",
     "id": 73,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -741,7 +741,7 @@
     "character": "Ichiban Kasuga",
     "id": 74,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -781,7 +781,7 @@
     "character": "Revali",
     "id": 78,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -790,7 +790,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 79,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -801,7 +801,7 @@
     "character": "Musashi reference",
     "id": 80,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "まだまだだね",
@@ -811,7 +811,7 @@
     "character": "Ryoma Echizen",
     "id": 81,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "約束された勝利の剣",
@@ -821,7 +821,7 @@
     "character": "Saber",
     "id": 82,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺は悪くねぇ！",
@@ -891,7 +891,7 @@
     "character": "Ryu",
     "id": 89,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "冒険の始まりだ！",
@@ -901,7 +901,7 @@
     "character": "Hero / party lines",
     "id": 90,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "ここからが本番だ",
@@ -911,7 +911,7 @@
     "character": "Guild Handler lines",
     "id": 91,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "次はもっと強くなる",
@@ -921,7 +921,7 @@
     "character": "Rival characters",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "運命なんて、変えてみせる！",
@@ -931,7 +931,7 @@
     "character": "Class Zero",
     "id": 93,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -941,7 +941,7 @@
     "character": "Ichiban Kasuga",
     "id": 94,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この戦い、負けられない！",
@@ -951,7 +951,7 @@
     "character": "Various protagonists",
     "id": 95,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "それもまた一興",
@@ -961,7 +961,7 @@
     "character": "Nobunaga Oda",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "世界を救うって、そういうことだろ？",
@@ -970,7 +970,7 @@
     "game": "Persona 5 Strikers",
     "character": "Joker",
     "id": 97,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -981,7 +981,7 @@
     "character": "Revali",
     "id": 98,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -990,7 +990,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 99,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1091,7 +1091,7 @@
     "character": "Ryu",
     "id": 109,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "冒険の始まりだ！",
@@ -1101,7 +1101,7 @@
     "character": "Hero / party lines",
     "id": 110,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "ここからが本番だ",
@@ -1121,7 +1121,7 @@
     "character": "Rival characters",
     "id": 112,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "運命なんて、変えてみせる！",

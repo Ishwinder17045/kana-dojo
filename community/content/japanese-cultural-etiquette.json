@@ -66,8 +66,10 @@
     "note": "御本尊周辺は撮影不可が多い。"
   },
   {
-    "title": "Bowing",
-    "content": "Bowing is a traditional Japanese greeting. The deeper the bow, the more respect shown."
+    "situation": "お辞儀",
+    "do": "挨拶時に軽くお辞儀する",
+    "dont": "頭を下げずに挨拶する",
+    "note": "お辞儀の深さで敬意の度合いを示す。"
   },
   {
     "situation": "レジ会計 5",
@@ -82,7 +84,7 @@
     "note": "謙遜表現が好まれる。"
   },
   {
-    "situatieon": "電車内 6",
+    "situation": "電車内 6",
     "do": "車内では静かに過ごす",
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。"
@@ -98,5 +100,17 @@
     "do": "静かにする",
     "dont": "電話で大声で話す",
     "note": "通話は控えるのが一般的。"
+  },
+  {
+    "situation": "箸の作法 3",
+    "do": "箸置きを使う",
+    "dont": "ご飯に箸を立てる",
+    "note": "立て箸は弔事連想のため避ける。"
+  },
+  {
+    "situation": "温泉 2",
+    "do": "湯船前に体を洗う",
+    "dont": "タオルを湯船に入れる",
+    "note": "共同浴場の基本ルール。"
   }
 ]

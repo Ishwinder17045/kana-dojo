@@ -33,7 +33,7 @@
     "correctIndex": 0
   },
   {
-    "question": "Which mountain is Japan’s highest peak?",
+    "question": "Which mountain is Japan's highest peak?",
     "difficulty": "easy",
     "answers": [
       "Mount Fuji",
@@ -204,6 +204,17 @@
       "Ikebana",
       "Kintsugi",
       "Shodo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which Japanese city is known for the famous bamboo grove? (Community variation 31)",
+    "difficulty": "easy",
+    "answers": [
+      "Kyoto",
+      "Tokyo",
+      "Sapporo",
+      "Fukuoka"
     ],
     "correctIndex": 0
   }
