@@ -1008,7 +1008,7 @@
     "romaji": "Senri no michi mo ippo kara",
     "english": "A journey of a thousand miles begins with one step",
     "meaning": "Start small to reach big goals",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1018,7 +1018,7 @@
     "english": "An iron club to an ogre",
     "meaning": "Adding strength to the strong",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 114,
